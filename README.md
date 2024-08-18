@@ -22,27 +22,12 @@
 ## The code will simulate a single run, such as below:
 
 ```
-Passed 0 times
-Failed 13300 times
-1 numbers entered - 721
-2 numbers entered - 1314
-3 numbers entered - 1731
-4 numbers entered - 1939
-5 numbers entered - 1893
-6 numbers entered - 1573
-7 numbers entered - 1376
-8 numbers entered - 1023
-9 numbers entered - 714
-10 numbers entered - 474
-11 numbers entered - 270
-12 numbers entered - 158
-13 numbers entered - 66
-14 numbers entered - 27
-15 numbers entered - 13
-16 numbers entered - 7
-17 numbers entered - 1
-
-
+Placed 215 at position 5. Board: [None, None, None, None, 215, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Placed 180 at position 4. Board: [None, None, None, 180, 215, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Placed 3 at position 1. Board: [3, None, None, 180, 215, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Placed 203 at position 2. Board: [3, 203, None, 180, 215, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+Placed 355 at position 8. Board: [3, 203, None, 180, 215, None, None, 355, None, None, None, None, None, None, None, None, None, None, None, None]
+Failed to place 2. Game Over!
 ```
 
 ## The code can also simulate multiple runs, such as below:
